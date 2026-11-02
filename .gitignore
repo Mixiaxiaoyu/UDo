@@ -1,0 +1,28 @@
+# Local state and generated files
+/.godot/
+/.runtime/
+/data/
+/native/bin/
+/dist/
+/godot-path.txt
+/UDo.exe
+/LumaDock.exe
+/assets/udo.ico
+/assets/logo.svg
+*.import
+*.log
+
+# Local QA output and reference material
+/tests/
+/docs/
+/test-*.ps1
+/qa-*.png
+/assets/figma/
+/native/DesktopZones/README.md
+/native/DesktopPartitions/README.md
+
+# Editor-specific directories
+/export_templates/
+/feature_profiles/
+/script_templates/
+/text_editor_themes/
