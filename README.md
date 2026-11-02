@@ -46,4 +46,4 @@ cd <项目目录>
 
 ## 许可证
 
-源代码按 [GNU GPL v3.0](LICENSE) 发布。重新分发修改版时，请遵守该许可证的源码提供要求。
+Copyright (C) 2026 Mixiaxiaoyu。源代码按 [GNU GPL v3.0](LICENSE) 发布。重新分发修改版时，请遵守该许可证的源码提供要求。
