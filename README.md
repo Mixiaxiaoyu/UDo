@@ -1,8 +1,12 @@
 # 有兜 · UDo
 
+简体中文 · [English](README.en.md)
+
 有兜是一个 Windows 桌面 Dock，使用 Godot 绘制界面，并通过 Win32 与 Windows Composition 管理窗口、任务栏和玻璃背景。
 
 视觉风格参考 macOS 27 的玻璃材质。本项目是独立的 Windows 实现，与 Apple 或 Figma 设计稿作者无关联。仓库不包含设计稿中的原始图片素材；应用图标由 Windows 提供。
+
+> **预览版**：UDo 仍在开发中，功能和界面可能调整，也可能遇到错误、兼容性问题或不稳定行为。欢迎通过 Issue 反馈使用体验。
 
 ## 功能
 
@@ -43,6 +47,12 @@ cd <项目目录>
 | `native/Launcher.cs`、`build.ps1` | 启动器与构建 |
 
 用户设置保存在本机 `data/`，其中可能包含应用路径、窗口标题及按键统计。该目录已被 Git 忽略。
+
+## 反馈与贡献
+
+欢迎参与改进 UDo：可以在 [Issues](https://github.com/Mixiaxiaoyu/UDo/issues) 报告问题、提出建议，也欢迎提交 [Pull Request](https://github.com/Mixiaxiaoyu/UDo/pulls) 修复错误或增加功能。
+
+报告问题时，请尽量写明 Windows 版本、复现步骤、预期和实际结果。提交代码前可以先在 Issue 中讨论较大的改动；提交 PR 时请说明修改内容和验证方法。请勿在公开问题或日志中附带个人路径、窗口标题等私人信息。
 
 ## 许可证
 
