@@ -2,7 +2,7 @@
 
 有兜是一个 Windows 桌面 Dock，使用 Godot 绘制界面，并通过 Win32 与 Windows Composition 管理窗口、任务栏和玻璃背景。
 
-视觉风格参考 macOS 27 的玻璃材质，以及[这份 Figma 社区设计稿](https://www.figma.com/design/VD6OCqdDSyyTYv5Re44XGs/macOS-27--Community-?node-id=6307-2864)。本项目是独立的 Windows 实现，与 Apple 或 Figma 设计稿作者无关联。仓库不包含设计稿中的原始图片素材；应用图标由 Windows 提供。
+视觉风格参考 macOS 27 的玻璃材质。本项目是独立的 Windows 实现，与 Apple 或 Figma 设计稿作者无关联。仓库不包含设计稿中的原始图片素材；应用图标由 Windows 提供。
 
 ## 功能
 
